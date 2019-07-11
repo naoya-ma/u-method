@@ -87,12 +87,4 @@
    * [OpenProj](https://sourceforge.net/projects/openproj/)
    * [Trello](https://trello.com/ja)
 
-     
 
-------
-
-Copyright (c) 2019 UNiSON DATA  Released under the Creative Commons and MIT license  
-
-- [Creative Commons の表示—継承(CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.ja)
-
-- [MIT License](https://opensource.org/licenses/mit-license.php)
