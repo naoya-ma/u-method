@@ -16,4 +16,4 @@ Project Management as a Service
 
 Copyright (c) 2019 UNiSON DATA Released under the Creative Commons and Apache license 
 - The content(document and image) is licensed CC BY-SA 4.0
-- The source code is licensed Apache License
+- The source code is licensed Apache License 2.0
