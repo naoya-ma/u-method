@@ -33,7 +33,9 @@
 
 ## 参考情報
 
- - [[Microsoft]|メモリ使用量が少ないように Excel ブックをクリーンアップする方法](https://docs.microsoft.com/ja-jp/office/troubleshoot/excel/clean-workbook-less-memory)
- - [[Microsoft]|Excel ブックのファイル サイズが予期せず指数関数的に増えることがあります](https://support.microsoft.com/ja-jp/help/930253/the-file-size-of-an-excel-workbook-may-unexpectedly-increase-exponenti)
- - [[Microsoft]|Excel が応答しない、停止する、フリーズする、動作しなくなる](https://support.office.com/ja-jp/article/excel-が応答しない、停止する、フリーズする、動作しなくなる-37e7d3c9-9e84-40bf-a805-4ca6853a1ff4)
- - [[Microsoft]|Excel のステータス バーのオプション](https://support.office.com/ja-jp/article/Excel-のステータス-バーのオプション-6055ecd9-e20f-4a7a-a611-4481bd488c55)
+ - [Microsoft|Excel のパフォーマンス: 計算パフォーマンスの強化](https://docs.microsoft.com/ja-jp/office/vba/excel/concepts/excel-performance/excel-improving-calcuation-performance)
+ - [Microsoft|Excel が応答しない、停止する、フリーズする、動作しなくなる](https://support.office.com/ja-jp/article/excel-が応答しない、停止する、フリーズする、動作しなくなる-37e7d3c9-9e84-40bf-a805-4ca6853a1ff4)
+ - [Microsoft|Excel のステータス バーのオプション](https://support.office.com/ja-jp/article/Excel-のステータス-バーのオプション-6055ecd9-e20f-4a7a-a611-4481bd488c55)
+ - [Microsoft|メモリ使用量が少ないように Excel ブックをクリーンアップする方法](https://docs.microsoft.com/ja-jp/office/troubleshoot/excel/clean-workbook-less-memory)
+ - [Microsoft|Excel ブックのファイル サイズが予期せず指数関数的に増えることがあります](https://support.microsoft.com/ja-jp/help/930253/the-file-size-of-an-excel-workbook-may-unexpectedly-increase-exponenti)
+
