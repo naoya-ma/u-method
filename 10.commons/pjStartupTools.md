@@ -24,13 +24,14 @@
    * [x] [Microsoft Office](https://products.office.com/ja-jp/)
    * [ ] [OpenOffice](https://www.openoffice.org/ja/)
    * [ ] [LibreOffice](https://ja.libreoffice.org/download/)
+   * [ ] [Collaba Office](https://www.collaboraoffice.com/)
 
 ### 2.3. コミュニケーション
 
    * [ ] [Zoom](https://zoom.us/support/download)
    * [ ] [Skype](https://www.skype.com/ja/get-skype/download-skype-for-desktop/)
    * [ ] [WebEx](https://www.webex.com/ja/video-conferencing.html)
-   * [ ] [Appear.in](https://appear.in)
+   * [ ] [Whereby(Appear.in)](https://whereby.com/)
 
 ### 2.4.エディタ 
 
@@ -39,7 +40,7 @@
    * [x] [さくらエディタ](https://sakura-editor.github.io/)
    * [ ] [TeraPad](https://tera-net.com/library/tpad.html)
    * [ ] [秀丸エディタ](https://hide.maruo.co.jp/software/hidemaru.html)
-   - [ ] [ATOM](https://atom.io/)
+   * [ ] [ATOM](https://atom.io/)
    * [ ] [Sublime Text](https://www.sublimetext.com/)
    * [ ] [Visual Source Code](https://azure.microsoft.com/ja-jp/products/visual-studio-code/)
 
@@ -92,5 +93,6 @@
    * [ ] [Microsoft Project](https://products.office.com/ja-jp/project/project-and-portfolio-management-software)
    * [ ] [OpenProj](https://sourceforge.net/projects/openproj/)
    * [ ] [Trello](https://trello.com/ja)
-
+   * [ ] [MS-Teams](https://products.office.com/ja-jp/microsoft-teams/group-chat-software)
+   * [ ] [Notion](https://www.notion.so)
 
