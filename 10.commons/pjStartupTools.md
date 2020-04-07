@@ -24,7 +24,7 @@
    * [x] [Microsoft Office](https://products.office.com/ja-jp/)
    * [ ] [OpenOffice](https://www.openoffice.org/ja/)
    * [ ] [LibreOffice](https://ja.libreoffice.org/download/)
-   * [ ] [Collaba Office](https://www.collaboraoffice.com/)
+   * [ ] [Collabora Office](https://www.collaboraoffice.com/)
 
 ### 2.3. コミュニケーション
 
@@ -60,6 +60,7 @@
    * [ ] [GIMP](https://www.gimp.org/)
    * [ ] [INKSCAPE](https://inkscape.org/ja/)
    * [ ] [Fimora](https://filmora.wondershare.jp/video-editor/)
+   * [ ] [Snap Camera](https://snapcamera.snapchat.com/)
 
 ### 2.7. PDF/印刷/コンバージョン
 
