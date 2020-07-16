@@ -40,9 +40,9 @@
    * [x] [さくらエディタ](https://sakura-editor.github.io/)
    * [ ] [TeraPad](https://tera-net.com/library/tpad.html)
    * [ ] [秀丸エディタ](https://hide.maruo.co.jp/software/hidemaru.html)
+   * [ ] [Visual Source Code](https://azure.microsoft.com/ja-jp/products/visual-studio-code/)
    * [ ] [ATOM](https://atom.io/)
    * [ ] [Sublime Text](https://www.sublimetext.com/)
-   * [ ] [Visual Source Code](https://azure.microsoft.com/ja-jp/products/visual-studio-code/)
 
 ### 2.5. 図/チャート/プレゼンテーション
 
@@ -82,10 +82,13 @@
    * [ ] [WinSCP](https://winscp.net/eng/download.php)
    * [ ] [Tortoise SVN](https://tortoisesvn.net/)
    * [ ] [Tortoise Git](https://tortoisegit.org/)
+   * [ ] [Git](https://git-scm.com/)
    * [ ] [khcoder](https://khcoder.net/)
    * [ ] [OpenJDK](https://jdk.java.net/)
    * [ ] [Python](https://www.python.org/)
    * [ ] [Ruby](https://www.ruby-lang.org/)
+   * [ ] [Go](https://golang.org/dl/)
+   
 
 ### 2.9. PJTools 
 
@@ -93,6 +96,8 @@
    * [ ] [X Mind](https://jp.xmind.net/)
    * [ ] [Microsoft Project](https://products.office.com/ja-jp/project/project-and-portfolio-management-software)
    * [ ] [OpenProj](https://sourceforge.net/projects/openproj/)
+   * [ ] [Wrike](https://www.wrike.com/ja/)
+   * [ ] [BackLog](https://backlog.com/ja/)
    * [ ] [Trello](https://trello.com/ja)
    * [ ] [MS-Teams](https://products.office.com/ja-jp/microsoft-teams/group-chat-software)
    * [ ] [Notion](https://www.notion.so)
