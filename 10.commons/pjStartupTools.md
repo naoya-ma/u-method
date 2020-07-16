@@ -45,18 +45,18 @@
    * [ ] [One Drive](https://onedrive.live.com/)
    * [ ] [DropBox](https://www.dropbox.com/ja/)
    * [ ] [Box](https://www.box.com/ja-jp/home)
-   * [ ] [Next Cloud](https://nextcloud.com/)
+   * [ ] [Nextcloud](https://nextcloud.com/)
    * [ ] [gitlab](https://about.gitlab.com/)
    * [ ] [gitbucket](https://gitbucket.github.io/)
 
 ### 2.5. エディタ 
 
    * [x] [Typora](https://typora.io/)
-   * [x] [gPad](https://mfactory.me/):
+   * [x] [gPad](https://mfactory.me/)
    * [x] [さくらエディタ](https://sakura-editor.github.io/)
    * [ ] [TeraPad](https://tera-net.com/library/tpad.html)
    * [ ] [秀丸エディタ](https://hide.maruo.co.jp/software/hidemaru.html)
-   * [ ] [Visual Source Code](https://azure.microsoft.com/ja-jp/products/visual-studio-code/)
+   * [ ] [Visual Source Code(VSCODE)](https://azure.microsoft.com/ja-jp/products/visual-studio-code/)
    * [ ] [ATOM](https://atom.io/)
    * [ ] [Sublime Text](https://www.sublimetext.com/)
 
@@ -96,6 +96,7 @@
    * [ ] [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
    * [ ] [TeraTerm](https://ja.osdn.net/projects/ttssh2/)
    * [ ] [WinSCP](https://winscp.net/eng/download.php)
+   * [ ] [RealVNC](https://www.realvnc.com/)
    * [ ] [FCIV](https://support.microsoft.com/ja-jp/help/841290/availability-and-description-of-the-file-checksum-integrity-verifier-u)
    * [ ] [Tortoise SVN](https://tortoisesvn.net/)
    * [ ] [Tortoise Git](https://tortoisegit.org/)
@@ -112,11 +113,12 @@
 
    * [ ] [Pleiades All in One Eclipise](https://mergedoc.osdn.jp/)
    * [ ] [IntelliJ IDEA](https://pleiades.io/help/go)
-   * [ ] [goland](https://pleiades.io/help/go)
+   * [ ] [GoLand](https://pleiades.io/help/go)
 
 ### 2.11. InfraTools 
 
-   * [ ] [VIrtualBox](https://www.virtualbox.org/)
+   * [ ] [Oracle VM VIrtualBox](https://www.virtualbox.org/)
+   * [ ] [Vagrant](https://www.vagrantup.com/)
    * [ ] [Docker for Windows](https://docs.docker.com/docker-for-windows/)
    * [ ] [Snipe-IT](https://snipe-it.readme.io/)
    * [ ] [Racktables](https://www.racktables.org/)
@@ -124,7 +126,7 @@
 
 ### 2.12. PJTools 
 
-Map/Task/Issue/Gannt
+Map/Task/Issue/Gantt
 
    * [ ] [FreeMind](https://ja.osdn.net/projects/freemind/)
    * [ ] [X Mind](https://jp.xmind.net/)
@@ -135,10 +137,13 @@ Map/Task/Issue/Gannt
    * [ ] [JIRA](https://www.atlassian.com/ja/software/jira)
    * [ ] [Wrike](https://www.wrike.com/ja/)
    * [ ] [asana](https://asana.com/ja)
+   * [ ] [Instagantt](https://instagantt.com/)
    * [ ] [BackLog](https://backlog.com/ja/)
    * [ ] [Trello](https://trello.com/ja)
-   * [ ] [Brabio](https://brabio.jp/)
+   * [ ] [Brabio!](https://brabio.jp/)
    * [ ] [MS-Teams](https://products.office.com/ja-jp/microsoft-teams/group-chat-software)
    * [ ] [Notion](https://www.notion.so)
+   * [ ] [Tama](https://www.netsphere.jp/tama/)
+   * [ ] [Schedule Board](http://www.rumix.com/sb/)
 
 
