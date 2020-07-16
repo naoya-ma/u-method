@@ -4,9 +4,7 @@
 
 ## 1. はじめに
 
-本書は、Project 参画時に必要となるツールに関する情報・ダウンロード先をまとめたものです。
-
-詳細は「2. 情報」から各ツールをたどっていただき、ご参照・活用ください。
+本書は、Project 参画時に必要となるツールやサービスに関する情報（接続先・ダウンロード先）をまとめたものです。詳細は「2. 情報」からたどっていただき、ご参照・活用ください。
 
 ##  2. 情報
 
@@ -28,15 +26,33 @@
 
 ### 2.3. コミュニケーション
 
+通話/ビデオ通話/チャット
+
    * [ ] [Zoom](https://zoom.us/support/download)
    * [ ] [Skype](https://www.skype.com/ja/get-skype/download-skype-for-desktop/)
    * [ ] [WebEx](https://www.webex.com/ja/video-conferencing.html)
    * [ ] [Whereby(Appear.in)](https://whereby.com/)
+   * [ ] [OpenVidu](https://openvidu.io/)
+   * [ ] [JITSI(ジッチ)](https://jitsi.org/)
+   * [ ] [Slack](https://slack.com/intl/ja-jp/)
+   * [ ] [ChatWork](https://go.chatwork.com/ja/)
+   * [ ] [Rocket.Chat](https://rocket.chat/)
+   * [ ] [Mattermost](https://mattermost.com/)
 
-### 2.4.エディタ 
+### 2.4. ファイルサービス
 
-   * [x] [Typora](https://typora.io/): Markdown WYSIWYG Editor
-   * [x] [gPad](https://mfactory.me/)
+   * [ ] [Google Drive](https://drive.google.com/)
+   * [ ] [One Drive](https://onedrive.live.com/)
+   * [ ] [DropBox](https://www.dropbox.com/ja/)
+   * [ ] [Box](https://www.box.com/ja-jp/home)
+   * [ ] [Next Cloud](https://nextcloud.com/)
+   * [ ] [gitlab](https://about.gitlab.com/)
+   * [ ] [gitbucket](https://gitbucket.github.io/)
+
+### 2.5. エディタ 
+
+   * [x] [Typora](https://typora.io/)
+   * [x] [gPad](https://mfactory.me/):
    * [x] [さくらエディタ](https://sakura-editor.github.io/)
    * [ ] [TeraPad](https://tera-net.com/library/tpad.html)
    * [ ] [秀丸エディタ](https://hide.maruo.co.jp/software/hidemaru.html)
@@ -44,7 +60,7 @@
    * [ ] [ATOM](https://atom.io/)
    * [ ] [Sublime Text](https://www.sublimetext.com/)
 
-### 2.5. 図/チャート/プレゼンテーション
+### 2.6. 図/チャート/プレゼンテーション
 
    * [x] [Draw.IO](https://www.draw.io/)
    * [x] [RevealJS](https://revealjs.com/#/)
@@ -55,14 +71,14 @@
    * [ ] [Goolge Chart](https://developers.google.com/chart/)
    * [ ] [Cacoo](https://cacoo.com/ja/)
 
-### 2.6. 画像/映像/音声
+### 2.7. 画像/映像/音声
 
    * [ ] [GIMP](https://www.gimp.org/)
    * [ ] [INKSCAPE](https://inkscape.org/ja/)
    * [ ] [Fimora](https://filmora.wondershare.jp/video-editor/)
    * [ ] [Snap Camera](https://snapcamera.snapchat.com/)
 
-### 2.7. PDF/印刷/コンバージョン
+### 2.8. PDF/印刷/コンバージョン
 
    * [x] [Acrobat Reader](https://get.adobe.com/jp/reader/otherversions/):PDF Viewer・印刷
    * [x] [Concat PDF](https://www.vector.co.jp/soft/winnt/writing/se314678.html): PDF結合
@@ -71,7 +87,7 @@
    * [ ] [ラベル屋さん](https://www.labelyasan.com/):名札・名刺印刷
    * [ ] [PanDoc](https://pandoc.org/)
 
-### 2.8. OpsTools 
+### 2.9. OpsTools 
 
    * [x] [7-Zip](https://sevenzip.osdn.jp/)
    * [x] [WinMerge](http://winmerge.org/downloads/?lang=ja)
@@ -80,6 +96,7 @@
    * [ ] [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
    * [ ] [TeraTerm](https://ja.osdn.net/projects/ttssh2/)
    * [ ] [WinSCP](https://winscp.net/eng/download.php)
+   * [ ] [FCIV](https://support.microsoft.com/ja-jp/help/841290/availability-and-description-of-the-file-checksum-integrity-verifier-u)
    * [ ] [Tortoise SVN](https://tortoisesvn.net/)
    * [ ] [Tortoise Git](https://tortoisegit.org/)
    * [ ] [Git](https://git-scm.com/)
@@ -88,17 +105,40 @@
    * [ ] [Python](https://www.python.org/)
    * [ ] [Ruby](https://www.ruby-lang.org/)
    * [ ] [Go](https://golang.org/dl/)
-   
+   * [ ] [cloc](https://github.com/AlDanial/cloc)
+   * [ ] [timekeeper](https://github.com/maruta/timekeeper)
 
-### 2.9. PJTools 
+### 2.10. DevTools
+
+   * [ ] [Pleiades All in One Eclipise](https://mergedoc.osdn.jp/)
+   * [ ] [IntelliJ IDEA](https://pleiades.io/help/go)
+   * [ ] [goland](https://pleiades.io/help/go)
+
+### 2.11. InfraTools 
+
+   * [ ] [VIrtualBox](https://www.virtualbox.org/)
+   * [ ] [Docker for Windows](https://docs.docker.com/docker-for-windows/)
+   * [ ] [Snipe-IT](https://snipe-it.readme.io/)
+   * [ ] [Racktables](https://www.racktables.org/)
+   * [ ] [netbox](https://github.com/netbox-community/netbox)
+
+### 2.12. PJTools 
+
+Map/Task/Issue/Gannt
 
    * [ ] [FreeMind](https://ja.osdn.net/projects/freemind/)
    * [ ] [X Mind](https://jp.xmind.net/)
    * [ ] [Microsoft Project](https://products.office.com/ja-jp/project/project-and-portfolio-management-software)
    * [ ] [OpenProj](https://sourceforge.net/projects/openproj/)
+   * [ ] [Trac](https://trac.edgewall.org/)
+   * [ ] [Redmine](https://www.redmine.org/)
+   * [ ] [JIRA](https://www.atlassian.com/ja/software/jira)
    * [ ] [Wrike](https://www.wrike.com/ja/)
+   * [ ] [asana](https://asana.com/ja)
    * [ ] [BackLog](https://backlog.com/ja/)
    * [ ] [Trello](https://trello.com/ja)
+   * [ ] [Brabio](https://brabio.jp/)
    * [ ] [MS-Teams](https://products.office.com/ja-jp/microsoft-teams/group-chat-software)
    * [ ] [Notion](https://www.notion.so)
+
 
