@@ -52,24 +52,31 @@
 ### 2.5. エディタ 
 
    * [x] [Typora](https://typora.io/)
-   * [x] [gPad](https://mfactory.me/)
    * [x] [さくらエディタ](https://sakura-editor.github.io/)
+   * [ ] [gPad](https://mfactory.me/)
    * [ ] [TeraPad](https://tera-net.com/library/tpad.html)
    * [ ] [秀丸エディタ](https://hide.maruo.co.jp/software/hidemaru.html)
    * [ ] [Visual Source Code(VSCODE)](https://azure.microsoft.com/ja-jp/products/visual-studio-code/)
    * [ ] [ATOM](https://atom.io/)
    * [ ] [Sublime Text](https://www.sublimetext.com/)
+   * [ ] [Vim](https://www.vim.org/download.php)
+   * [ ] [GNU Emacs](https://www.gnu.org/software/emacs/)
 
 ### 2.6. 図/チャート/プレゼンテーション
 
-   * [x] [Draw.IO](https://www.draw.io/)
-   * [x] [RevealJS](https://revealjs.com/#/)
-   * [x] [c3js](https://developers.google.com/chart/)
-   * [x] [d3js](https://d3js.org/)
+   * [ ] [Draw.IO](https://www.draw.io/)
+   * [ ] [RevealJS](https://revealjs.com/#/)
+   * [ ] [c3js](https://developers.google.com/chart/)
+   * [ ] [d3js](https://d3js.org/)
    * [ ] [ChartJS](https://www.chartjs.org/)
    * [ ] [Chartist](https://gionkunz.github.io/chartist-js/index.html)
    * [ ] [Goolge Chart](https://developers.google.com/chart/)
    * [ ] [Cacoo](https://cacoo.com/ja/)
+   * [ ] [Adobe XD](https://www.adobe.com/jp/products/xd.html)
+   * [ ] [Sketch](https://www.sketch.com/)
+   * [ ] [PlantUML](https://plantuml.com/ja/)
+   * [ ] [Graphviz](https://graphviz.org/)
+   * [ ] [mermaid.js](https://github.com/mermaid-js/mermaid)
 
 ### 2.7. 画像/映像/音声
 
@@ -80,18 +87,19 @@
 
 ### 2.8. PDF/印刷/コンバージョン
 
-   * [x] [Acrobat Reader](https://get.adobe.com/jp/reader/otherversions/):PDF Viewer・印刷
-   * [x] [Concat PDF](https://www.vector.co.jp/soft/winnt/writing/se314678.html): PDF結合
-   * [ ] [PDF-XChange Viewer](https://www.vector.co.jp/soft/winnt/writing/se492489.html):PDFしおり
-   * [ ] [4Videosoft フリー PDF JPEG 変換](https://www.vector.co.jp/soft/dl/winnt/art/se485136.html):PDF2JPEG
-   * [ ] [ラベル屋さん](https://www.labelyasan.com/):名札・名刺印刷
+   * [x] [Acrobat Reader](https://get.adobe.com/jp/reader/otherversions/)
+   * [ ] [Concat PDF](https://www.vector.co.jp/soft/winnt/writing/se314678.html)
+   * [ ] [PDF-XChange Viewer](https://www.vector.co.jp/soft/winnt/writing/se492489.html)
+   * [ ] [4Videosoft フリー PDF JPEG 変換](https://www.vector.co.jp/soft/dl/winnt/art/se485136.html)
+   * [ ] [ラベル屋さん](https://www.labelyasan.com/)
    * [ ] [PanDoc](https://pandoc.org/)
 
 ### 2.9. OpsTools 
 
    * [x] [7-Zip](https://sevenzip.osdn.jp/)
    * [x] [WinMerge](http://winmerge.org/downloads/?lang=ja)
-   * [x] [FolderDiff](https://www.vector.co.jp/soft/winnt/util/se465692.html)
+   * [ ] [FolderDiff](https://www.vector.co.jp/soft/winnt/util/se465692.html)
+   * [ ] [DF](https://www.vector.co.jp/soft/win95/util/se113286.html)
    * [ ] [CarrotDAV](http://rei.to/carotdav.html)
    * [ ] [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
    * [ ] [TeraTerm](https://ja.osdn.net/projects/ttssh2/)
@@ -101,6 +109,7 @@
    * [ ] [Tortoise SVN](https://tortoisesvn.net/)
    * [ ] [Tortoise Git](https://tortoisegit.org/)
    * [ ] [Git](https://git-scm.com/)
+   * [ ] [Chocolately](https://chocolatey.org/)
    * [ ] [khcoder](https://khcoder.net/)
    * [ ] [OpenJDK](https://jdk.java.net/)
    * [ ] [Python](https://www.python.org/)
@@ -126,8 +135,7 @@
 
 ### 2.12. PJTools 
 
-Map/Task/Issue/Gantt
-
+ MindMap/Task/Issue/Gantt
    * [ ] [FreeMind](https://ja.osdn.net/projects/freemind/)
    * [ ] [X Mind](https://jp.xmind.net/)
    * [ ] [Microsoft Project](https://products.office.com/ja-jp/project/project-and-portfolio-management-software)
@@ -140,10 +148,12 @@ Map/Task/Issue/Gantt
    * [ ] [Instagantt](https://instagantt.com/)
    * [ ] [BackLog](https://backlog.com/ja/)
    * [ ] [Trello](https://trello.com/ja)
+   * [ ] [Elegant for Trello](https://elegantt.com/)
    * [ ] [Brabio!](https://brabio.jp/)
    * [ ] [MS-Teams](https://products.office.com/ja-jp/microsoft-teams/group-chat-software)
    * [ ] [Notion](https://www.notion.so)
    * [ ] [Tama](https://www.netsphere.jp/tama/)
    * [ ] [Schedule Board](http://www.rumix.com/sb/)
+   * [ ] [調整さん](https://chouseisan.com/)
 
 
