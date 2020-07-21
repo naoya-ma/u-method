@@ -13,6 +13,16 @@ builds:
       - amd64
     hooks:
       post: build.cmd 
+  -
+    main: gwebc.go
+    id: "gwebc-cui"
+    binary: gwebc-cui
+    goos:
+      - windows
+    goarch:
+      - amd64
+    hooks:
+      post: build-cui.cmd 
 archives:
   - 
     format: binary
