@@ -1,11 +1,11 @@
 builds:
-  - main: gwebc.go
-  - binary: gwebc
-    ldflags:
-      - -H windowsgui  
-    goos:
-      - windows
-    goarch:
+  -
+    main: gwebc.go
+    binary: gwebc
+  - goos:
+    - windows
+    ldflags: -H windowsgui
+  - goarch:
       - amd64
 archives:
   - 
