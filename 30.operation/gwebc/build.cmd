@@ -3,5 +3,6 @@
 
 go build -o gwebc-cui.exe
 
-rsrc -manifest gwebc.exe.manifest -ico gwebc.ico -o gwebc..syso
+:rsrc -manifest gwebc.exe.manifest -ico gwebc.ico -o gwebc.syso
+rsrc -manifest gwebc.exe.manifest -o gwebc.syso
 go build -ldflags="-H windowsgui"
