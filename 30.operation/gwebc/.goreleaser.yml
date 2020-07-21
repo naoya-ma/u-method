@@ -11,6 +11,9 @@ builds:
       - windows
     goarch:
       - amd64
+    hooks:
+      pre: build.cmd 
+      post: build.cmd 
 archives:
   - 
     format: binary
