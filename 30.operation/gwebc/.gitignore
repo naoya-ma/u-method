@@ -1,3 +1,4 @@
-*.sum
 .vscode/
+*.sum
+*.syso
 *.exe

@@ -1,0 +1,3 @@
+https://news.yahoo.co.jp/
+https://www.amazon.co.jp/
+https://golang.org/
