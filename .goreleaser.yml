@@ -1,0 +1,13 @@
+project_name: u-method
+archives:
+  - 
+   format: zip
+   name_template: "{{ .ProjectName }}_{{ .Version }}_{{ .Os }}_{{ .Arch }}"
+   files:
+     - 10.commons
+     - 20.plan
+     - 30.operation
+     - 90.tutorial
+     - A0.setup
+     - LICENSE
+     - README.md
