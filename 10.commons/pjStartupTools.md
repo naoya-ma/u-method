@@ -39,8 +39,9 @@
    * [ ] [Rocket.Chat](https://rocket.chat/)
    * [ ] [Mattermost](https://mattermost.com/)
 
-### 2.4. ファイルサービス
+### 2.4. 情報共有/ファイルサービス
 
+   * [ ] [evernote](https://evernote.com/)
    * [ ] [Google Drive](https://drive.google.com/)
    * [ ] [One Drive](https://onedrive.live.com/)
    * [ ] [DropBox](https://www.dropbox.com/ja/)
@@ -105,6 +106,8 @@
    * [ ] [TeraTerm](https://ja.osdn.net/projects/ttssh2/)
    * [ ] [WinSCP](https://winscp.net/eng/download.php)
    * [ ] [RealVNC](https://www.realvnc.com/)
+   * [ ] [UltraVNC](https://www.uvnc.com/)
+   * [ ] [AnyDesk](https://anydesk.com/ja/)
    * [ ] [FCIV](https://support.microsoft.com/ja-jp/help/841290/availability-and-description-of-the-file-checksum-integrity-verifier-u)
    * [ ] [Tortoise SVN](https://tortoisesvn.net/)
    * [ ] [Tortoise Git](https://tortoisegit.org/)
