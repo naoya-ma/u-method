@@ -97,7 +97,7 @@ func (mw *MyMainWindow) buttonClicked() {
 		//mw.outputArea.SetEnabled(true)
 
 		elapsed := time.Since(start)
-		mw.outputArea.AppendText(fmt.Sprintf("elapsed %s", elapsed))
+		mw.outputArea.AppendText(fmt.Sprintf("elapsed %s\r\n", elapsed))
 
 		finished <- true
 	}()
