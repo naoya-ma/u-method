@@ -6,6 +6,7 @@ import (
 	"log"
 	"os"
 	"strings"
+	"time"
 
 	"github.com/PuerkitoBio/goquery"
 	"github.com/jessevdk/go-flags"
@@ -48,43 +49,60 @@ func (mw *MyMainWindow) buttonClicked() {
 	originalText := mw.inputArea.Text()
 	splitLine = strings.Split(strings.Replace(originalText, "\r\n", "\n", -1), "\n")
 
-	for i := 0; i < len(splitLine); i++ {
-		urlpath = strings.TrimSpace(splitLine[i])
-		if len(urlpath) > 0 {
-			if containsAnyString(urlpath, "http://", "https://", "file://", "ftp://") {
-				title = urlpath //title = "(unknown)"
-				ogtitle = ""
-				doc, err := goquery.NewDocument(urlpath)
-				if err != nil {
-					log.Print(fmt.Sprintf("[ERROR] %v\n", err))
-				} else {
-					// get title
-					title = strings.TrimSpace(doc.Find("title").Text())
-					// get meta description field
-					doc.Find("meta").Each(func(j int, s *goquery.Selection) {
-						op, _ := s.Attr("property")
-						con, _ := s.Attr("content")
-						if opts.Verbose {
-							log.Print(fmt.Sprintf("-- [%s]:[%s]\n", op, con))
-						}
-						if op == "og:title" {
-							ogtitle = con
-							//fmt.Printf("ogtitle field: %s\n", ogtitle)
-							if len(ogtitle) > 0 {
-								title = ogtitle
+	// goroutine
+	finished := make(chan bool)
+
+	go func() {
+		start := time.Now()
+
+		//mw.outputArea.SetEnabled(false)
+
+		for i := 0; i < len(splitLine); i++ {
+			urlpath = strings.TrimSpace(splitLine[i])
+			if len(urlpath) > 0 {
+				if containsAnyString(urlpath, "http://", "https://", "file://", "ftp://") {
+					title = urlpath //title = "(unknown)"
+					ogtitle = ""
+					doc, err := goquery.NewDocument(urlpath)
+					if err != nil {
+						log.Print(fmt.Sprintf("[ERROR] %v\n", err))
+					} else {
+						// get title
+						title = strings.TrimSpace(doc.Find("title").Text())
+						// get meta description field
+						doc.Find("meta").Each(func(j int, s *goquery.Selection) {
+							op, _ := s.Attr("property")
+							con, _ := s.Attr("content")
+							if opts.Verbose {
+								log.Print(fmt.Sprintf("-- [%s]:[%s]\n", op, con))
 							}
-						}
-					})
-				}
-				mw.outputArea.SetText(mw.outputArea.Text() + fmt.Sprintf("* %s\r\n", title))
-				mw.outputArea.SetText(mw.outputArea.Text() + fmt.Sprintf("  %s\r\n", urlpath))
-			} else {
-				if mw.chk1.CheckState() != walk.CheckChecked {
-					mw.outputArea.SetText(mw.outputArea.Text() + fmt.Sprintf("%s\r\n", urlpath))
+							if op == "og:title" {
+								ogtitle = con
+								//fmt.Printf("ogtitle field: %s\n", ogtitle)
+								if len(ogtitle) > 0 {
+									title = ogtitle
+								}
+							}
+						})
+					}
+					mw.outputArea.AppendText(fmt.Sprintf("* %s\r\n  %s\r\n", title, urlpath))
+				} else {
+					if mw.chk1.CheckState() != walk.CheckChecked {
+						mw.outputArea.AppendText(fmt.Sprintf("%s\r\n", urlpath))
+					}
 				}
 			}
 		}
-	}
+
+		//mw.outputArea.SetEnabled(true)
+
+		elapsed := time.Since(start)
+		mw.outputArea.AppendText(fmt.Sprintf("elapsed %s", elapsed))
+
+		finished <- true
+	}()
+
+	//<-finished
 
 }
 
@@ -144,11 +162,11 @@ func main() {
 	parser.Usage = "[OPTIONS]"
 
 	args, err := parser.Parse()
-	if len(args) != 0 {
-		parser.WriteHelp(os.Stdout)
+	if err != nil {
 		os.Exit(1)
 	}
-	if err != nil {
+	if len(args) != 0 {
+		//parser.WriteHelp(os.Stdout)
 		os.Exit(1)
 	}
 
