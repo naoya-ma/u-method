@@ -2,8 +2,8 @@
 @:cd %GOPATH%
 
 @setlocal
-@set apps=gwebci
-@set appsdir=gwebc
+@set apps=gwebc
+@set appsdir=%apps%
 
 @pushd %appsdir%
 
@@ -12,7 +12,7 @@
 
 go build -ldflags="-H windowsgui"
 
-if exist dist\%apps%_windows_amd64 (
+if exist dist\%appsdir%_windows_amd64 (
   copy /y %apps%.exe  dist\%apps%_windows_amd64
 )
 

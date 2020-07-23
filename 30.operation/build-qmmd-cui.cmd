@@ -3,7 +3,7 @@
 
 @setlocal
 @set apps=qmmd
-@set appsdir=qmmd
+@set appsdir=%apps%
 
 @pushd %appsdir%
 
