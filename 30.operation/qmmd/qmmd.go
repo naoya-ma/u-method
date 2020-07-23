@@ -136,7 +136,7 @@ func main() {
 		os.Exit(1)
 	}
 	if len(args) < 3 {
-		//parser.WriteHelp(os.Stdout)
+		parser.WriteHelp(os.Stdout)
 		os.Exit(1)
 	}
 
