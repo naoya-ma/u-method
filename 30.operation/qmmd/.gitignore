@@ -1,0 +1,7 @@
+meetingdir/
+dist/
+.vscode/
+*-*/
+*.sum
+*.syso
+*.exe
