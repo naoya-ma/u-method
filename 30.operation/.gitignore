@@ -1,0 +1,8 @@
+.gitignore
+.goreleaser.yml
+build*.cmd
+dist/
+.vscode/
+*.sum
+*.syso
+*.exe

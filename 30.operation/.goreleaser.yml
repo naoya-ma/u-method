@@ -1,0 +1,51 @@
+project_name: umOpsTools
+#before:
+#  hooks:
+#  - go mod tidy
+builds:
+  -
+    main: gwebc/gwebc.go
+    id: "gwebc"
+    binary: gwebc
+    ldflags: -H windowsgui
+    goos:
+      - windows
+    goarch:
+      - amd64
+    hooks:
+      post: build-gwebc.cmd 
+  -
+    main: gwebc/gwebc.go
+    id: "gwebc-cui"
+    binary: gwebc-cui
+    goos:
+      - windows
+    goarch:
+      - amd64
+    hooks:
+      post: build-gwebc-cui.cmd 
+  -
+    main: qmmd/qmmd.go
+    id: "qmmd"
+    binary: qmmd
+    goos:
+      - windows
+    goarch:
+      - amd64
+    hooks:
+      post: build-qmmd-cui.cmd 
+
+archives:
+  - 
+    format: zip
+    files:
+      - README.md
+      - img/*.png
+
+changelog:
+  skip: true
+  sort: asc
+  filters:
+    exclude:
+    - '^docs:'
+    - '^test:'
