@@ -1,0 +1,5 @@
+module github.com/naoya-ma/u-method/30.operation/qmmd
+
+go 1.13
+
+require github.com/jessevdk/go-flags v1.4.0

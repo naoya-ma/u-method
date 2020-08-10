@@ -1,0 +1,17 @@
+before:
+  hooks:
+  - go mod tidy
+builds:
+  -
+    main: qmmd.go
+    id: "qmmd"
+    binary: qmmd
+    goos:
+      - windows
+    goarch:
+      - amd64
+    hooks:
+      post: build-cui.cmd 
+archives:
+  - 
+    format: binary
