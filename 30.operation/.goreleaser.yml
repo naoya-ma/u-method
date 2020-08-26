@@ -3,6 +3,8 @@ project_name: umOpsTools
 #  hooks:
 #  - go mod tidy
 builds:
+- env:
+  - GO111MODULE=on
   -
     main: gwebc/gwebc.go
     id: "gwebc"
