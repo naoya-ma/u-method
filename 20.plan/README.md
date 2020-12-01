@@ -6,6 +6,7 @@
 - pjswcm: 構成管理の進め方
 - pjtemplate: キックオフ/文書管理台帳/議事録/WBS/名前定義削除マクロ
 - pjstatus: テスト管理
+- pjreport: ｐJ状況報告
 
 -----
 
