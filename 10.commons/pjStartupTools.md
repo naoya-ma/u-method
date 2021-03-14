@@ -20,6 +20,7 @@
 ### 2.2. オフィススイート
 
    * [x] [Microsoft Office](https://products.office.com/ja-jp/)
+   * [ ] [Microsoft Power Query](https://www.microsoft.com/ja-jp/download/details.aspx?id=39379)
    * [ ] [OpenOffice](https://www.openoffice.org/ja/)
    * [ ] [LibreOffice](https://ja.libreoffice.org/download/)
    * [ ] [Collabora Office](https://www.collaboraoffice.com/)
@@ -113,6 +114,7 @@
    * [ ] [Tortoise Git](https://tortoisegit.org/)
    * [ ] [Git](https://git-scm.com/)
    * [ ] [Chocolately](https://chocolatey.org/)
+   * [ ] [Microsoft Power Automate Desktop](https://flow.microsoft.com/ja-jp/desktop/)
    * [ ] [khcoder](https://khcoder.net/)
    * [ ] [OpenJDK](https://jdk.java.net/)
    * [ ] [Python](https://www.python.org/)
