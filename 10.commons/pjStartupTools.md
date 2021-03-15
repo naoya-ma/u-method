@@ -20,7 +20,6 @@
 ### 2.2. オフィススイート
 
    * [x] [Microsoft Office](https://products.office.com/ja-jp/)
-   * [ ] [Microsoft Power Query](https://www.microsoft.com/ja-jp/download/details.aspx?id=39379)
    * [ ] [OpenOffice](https://www.openoffice.org/ja/)
    * [ ] [LibreOffice](https://ja.libreoffice.org/download/)
    * [ ] [Collabora Office](https://www.collaboraoffice.com/)
@@ -160,5 +159,6 @@
    * [ ] [Tama](https://www.netsphere.jp/tama/)
    * [ ] [Schedule Board](http://www.rumix.com/sb/)
    * [ ] [調整さん](https://chouseisan.com/)
-
+   * [ ] [Microsoft Power Query](https://www.microsoft.com/ja-jp/download/details.aspx?id=39379)
+ 
 
