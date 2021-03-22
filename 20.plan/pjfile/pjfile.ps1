@@ -10,13 +10,12 @@ $CMDDIR=Split-Path $script:myInvocation.MyCommand.path -parent
 $PWDDIR=(Convert-Path .)
 
 $excelFile=Join-Path $CMDDIR "excel.xlsx"
-$targetFolder="C:\Users\n-mat"
-
-$rc=0
+$targetFolder=$PWDDIR
 
 # ----------------------------------------------------------------------
 # 2. Init
 # ----------------------------------------------------------------------
+$rc=0
 
 # ----------------------------------------------------------------------
 # 3. Functions
@@ -58,14 +57,11 @@ try{
 } finally {
   do {
     $cnt = [System.Runtime.Interopservices.Marshal]::ReleaseComObject($excel)
-  }
-  while ($cnt -gt 0)
+  } while ($cnt -gt 0)
   [System.GC]::Collect()
 }
-
 
 # ----------------------------------------------------------------------
 # 5. exit
 # ----------------------------------------------------------------------
 exit $rc 
-
