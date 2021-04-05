@@ -32,6 +32,10 @@
    * [ ] [Skype](https://www.skype.com/ja/get-skype/download-skype-for-desktop/)
    * [ ] [WebEx](https://www.webex.com/ja/video-conferencing.html)
    * [ ] [Whereby(Appear.in)](https://whereby.com/)
+   * [ ] [WhatsApp](https://www.whatsapp.com/)
+   * [ ] [LINE WORKS](https://line.worksmobile.com/)
+   * [ ] [Signal](https://signal.org/)
+   * [ ] [Session](https://getsession.org/)
    * [ ] [OpenVidu](https://openvidu.io/)
    * [ ] [JITSI(ジッチ)](https://jitsi.org/)
    * [ ] [Slack](https://slack.com/intl/ja-jp/)
@@ -41,9 +45,12 @@
 
 ### 2.4. 情報共有/ファイルサービス
 
-   * [ ] [evernote](https://evernote.com/)
+   * [ ] [Evernote](https://evernote.com/)
+   * [ ] [Notion](https://www.notion.so/)
+   * [ ] [Microsoft OneNote](https://www.onenote.com)
+   * [ ] [Microsoft OneDrive](https://onedrive.live.com/)
+   * [ ] [Google Keep](https://keep.google.com/)
    * [ ] [Google Drive](https://drive.google.com/)
-   * [ ] [One Drive](https://onedrive.live.com/)
    * [ ] [DropBox](https://www.dropbox.com/ja/)
    * [ ] [Box](https://www.box.com/ja-jp/home)
    * [ ] [Nextcloud](https://nextcloud.com/)
@@ -109,28 +116,29 @@
    * [ ] [UltraVNC](https://www.uvnc.com/)
    * [ ] [AnyDesk](https://anydesk.com/ja/)
    * [ ] [FCIV](https://support.microsoft.com/ja-jp/help/841290/availability-and-description-of-the-file-checksum-integrity-verifier-u)
-   * [ ] [Tortoise SVN](https://tortoisesvn.net/)
-   * [ ] [Tortoise Git](https://tortoisegit.org/)
-   * [ ] [Git](https://git-scm.com/)
    * [ ] [Chocolately](https://chocolatey.org/)
    * [ ] [Microsoft Power Automate Desktop](https://flow.microsoft.com/ja-jp/desktop/)
    * [ ] [khcoder](https://khcoder.net/)
-   * [ ] [OpenJDK](https://jdk.java.net/)
-   * [ ] [Python](https://www.python.org/)
-   * [ ] [Ruby](https://www.ruby-lang.org/)
-   * [ ] [Go](https://golang.org/dl/)
-   * [ ] [cloc](https://github.com/AlDanial/cloc)
-   * [ ] [timekeeper](https://github.com/maruta/timekeeper)
 
 ### 2.10. DevTools
 
    * [ ] [Pleiades All in One Eclipise](https://mergedoc.osdn.jp/)
    * [ ] [IntelliJ IDEA](https://pleiades.io/help/go)
    * [ ] [GoLand](https://pleiades.io/help/go)
+   * [ ] [Android Studio](https://developer.android.com/studio)
+   * [ ] [OpenJDK](https://jdk.java.net/)
+   * [ ] [Python](https://www.python.org/)
+   * [ ] [Ruby](https://www.ruby-lang.org/)
+   * [ ] [Go](https://golang.org/dl/)
+   * [ ] [cloc](https://github.com/AlDanial/cloc)
+   * [ ] [timekeeper](https://github.com/maruta/timekeeper)
+   * [ ] [Tortoise SVN](https://tortoisesvn.net/)
+   * [ ] [Tortoise Git](https://tortoisegit.org/)
+   * [ ] [Git](https://git-scm.com/)
 
 ### 2.11. InfraTools 
 
-   * [ ] [Oracle VM VIrtualBox](https://www.virtualbox.org/)
+   * [ ] [Oracle VM VirtualBox](https://www.virtualbox.org/)
    * [ ] [Vagrant](https://www.vagrantup.com/)
    * [ ] [Docker for Windows](https://docs.docker.com/docker-for-windows/)
    * [ ] [Snipe-IT](https://snipe-it.readme.io/)
@@ -160,5 +168,5 @@
    * [ ] [Schedule Board](http://www.rumix.com/sb/)
    * [ ] [調整さん](https://chouseisan.com/)
    * [ ] [Microsoft Power Query](https://www.microsoft.com/ja-jp/download/details.aspx?id=39379)
- 
+
 
