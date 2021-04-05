@@ -32,6 +32,10 @@
    * [ ] [Skype](https://www.skype.com/ja/get-skype/download-skype-for-desktop/)
    * [ ] [WebEx](https://www.webex.com/ja/video-conferencing.html)
    * [ ] [Whereby(Appear.in)](https://whereby.com/)
+   * [ ] [WhatsApp](https://www.whatsapp.com/)
+   * [ ] [LINE WORKS](https://line.worksmobile.com/)
+   * [ ] [Signal](https://signal.org/)
+   * [ ] [Session](https://getsession.org/)
    * [ ] [OpenVidu](https://openvidu.io/)
    * [ ] [JITSI(ジッチ)](https://jitsi.org/)
    * [ ] [Slack](https://slack.com/intl/ja-jp/)
@@ -41,9 +45,12 @@
 
 ### 2.4. 情報共有/ファイルサービス
 
-   * [ ] [evernote](https://evernote.com/)
+   * [ ] [Evernote](https://evernote.com/)
+   * [ ] [Notion](https://www.notion.so/)
+   * [ ] [Microsoft OneNote](https://www.onenote.com)
+   * [ ] [Microsoft One Drive](https://onedrive.live.com/)
+   * [ ] [Google Keep](https://keep.google.com/)
    * [ ] [Google Drive](https://drive.google.com/)
-   * [ ] [One Drive](https://onedrive.live.com/)
    * [ ] [DropBox](https://www.dropbox.com/ja/)
    * [ ] [Box](https://www.box.com/ja-jp/home)
    * [ ] [Nextcloud](https://nextcloud.com/)
@@ -127,6 +134,7 @@
    * [ ] [Pleiades All in One Eclipise](https://mergedoc.osdn.jp/)
    * [ ] [IntelliJ IDEA](https://pleiades.io/help/go)
    * [ ] [GoLand](https://pleiades.io/help/go)
+   * [ ] [Android Studio](https://developer.android.com/studio)
 
 ### 2.11. InfraTools 
 
@@ -160,5 +168,5 @@
    * [ ] [Schedule Board](http://www.rumix.com/sb/)
    * [ ] [調整さん](https://chouseisan.com/)
    * [ ] [Microsoft Power Query](https://www.microsoft.com/ja-jp/download/details.aspx?id=39379)
- 
+
 
