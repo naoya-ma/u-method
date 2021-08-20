@@ -12,14 +12,14 @@
 
    * [x] [Google Chrome](https://www.google.com/intl/ja/chrome/)
    * [x] [Mozilla FireFox](https://www.mozilla.org/ja/firefox/)
-   * [ ] [Microsoft Edge](https://www.microsoft.com/ja-jp/windows/microsoft-edge)
+   * [ ] [Microsoft Edge](https://www.microsoft.com/ja-jp/edge)
    * [ ] [Apple Safari](https://www.apple.com/jp/safari/)
    * [ ] [Opera](https://www.opera.com/ja/)
    * [ ] [Vivaldi](https://vivaldi.com/ja/)
 
 ### 2.2. オフィススイート
 
-   * [x] [Microsoft Office](https://products.office.com/ja-jp/)
+   * [x] [Microsoft Office365](https://www.microsoft.com/ja-jp/microsoft-365)
    * [ ] [OpenOffice](https://www.openoffice.org/ja/)
    * [ ] [LibreOffice](https://ja.libreoffice.org/download/)
    * [ ] [Collabora Office](https://www.collaboraoffice.com/)
@@ -28,7 +28,7 @@
 
 通話/ビデオ通話/チャット
 
-   * [ ] [Zoom](https://zoom.us/support/download)
+   * [ ] [Zoom](https://zoom.us/download)
    * [ ] [Skype](https://www.skype.com/ja/get-skype/download-skype-for-desktop/)
    * [ ] [WebEx](https://www.webex.com/ja/video-conferencing.html)
    * [ ] [Whereby(Appear.in)](https://whereby.com/)
@@ -151,6 +151,11 @@
    * [ ] [FreeMind](https://ja.osdn.net/projects/freemind/)
    * [ ] [X Mind](https://jp.xmind.net/)
    * [ ] [Microsoft Project](https://products.office.com/ja-jp/project/project-and-portfolio-management-software)
+   * [ ] [Microsoft Teams](https://products.office.com/ja-jp/microsoft-teams/group-chat-software)
+   * [ ] [Microsoft ToDo](https://to-do.microsoft.com/tasks/)
+   * [ ] [Microsoft Planner](https://tasks.office.com/)
+   * [ ] [Microsoft Automate](https://powerautomateweb.microsoft.com/ja-jp/)
+   * [ ] [Microsoft Power Query](https://www.microsoft.com/ja-jp/download/details.aspx?id=39379)
    * [ ] [OpenProj](https://sourceforge.net/projects/openproj/)
    * [ ] [Trac](https://trac.edgewall.org/)
    * [ ] [Redmine](https://www.redmine.org/)
@@ -162,11 +167,8 @@
    * [ ] [Trello](https://trello.com/ja)
    * [ ] [Elegant for Trello](https://elegantt.com/)
    * [ ] [Brabio!](https://brabio.jp/)
-   * [ ] [MS-Teams](https://products.office.com/ja-jp/microsoft-teams/group-chat-software)
    * [ ] [Notion](https://www.notion.so)
    * [ ] [Tama](https://www.netsphere.jp/tama/)
    * [ ] [Schedule Board](http://www.rumix.com/sb/)
    * [ ] [調整さん](https://chouseisan.com/)
-   * [ ] [Microsoft Power Query](https://www.microsoft.com/ja-jp/download/details.aspx?id=39379)
-
 
