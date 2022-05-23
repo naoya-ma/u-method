@@ -18,8 +18,18 @@
 
 ```
 > wsl
-# cd /c/data
-# docker-compose down && docker-compose build && docker-compose run dochub
+# cd /data
+# docker-compose down && docker-compose build && docker-compose --publish 8000:8000 run dochub
+# cd /data/project
+# mkdocs serve -a 0.0.0.0:8000
 ```
 </details> 
+
+### 3. Usage
+
+
+```
+# cd /data
+# mkdocs serve -a 0.0.0.0:8000
+```
 
