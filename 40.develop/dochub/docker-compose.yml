@@ -1,0 +1,11 @@
+version: '3'
+services:
+  rockylinux8:
+    container_name: "rockylinux8"
+    build: ./
+    tty: true
+    restart: always
+    ports:
+      - 8080:8000
+    volumes:
+      - /mnt/c/data:/data
