@@ -1,7 +1,7 @@
 version: '3'
 services:
-  rockylinux8:
-    container_name: "rockylinux8"
+  dochub:
+    container_name: "dochub"
     build: ./
     tty: true
     restart: always
