@@ -15,5 +15,6 @@ RUN npx playwright install-deps
 RUN npx playwright install
 
 # npx playwright codegen https://www.google.com
+# npx playwright test
 # npm i -D @playwright/test
 # npx folio
