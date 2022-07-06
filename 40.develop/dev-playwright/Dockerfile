@@ -16,5 +16,6 @@ RUN npx playwright install
 
 # npx playwright codegen https://www.google.com
 # npx playwright test
+# npx playwright test --headed google.test.ts --update-snapshots
 # npm i -D @playwright/test
 # npx folio
