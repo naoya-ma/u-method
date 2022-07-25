@@ -1,0 +1,40 @@
+{
+    "version": 1,
+    "disable_existing_loggers": false,
+    "formatters": {
+        "simple": {
+            "format": "%(asctime)s.%(msecs)03d %(processName)s(%(process)d) %(name)s %(funcName)s [%(levelname)s]: %(message)s",
+            "datefmt": "%Y/%m/%d %H:%M:%S"
+        },
+        "simplethread": {
+            "format": "%(asctime)s.%(msecs)03d %(processName)s(%(process)d) %(threadName)s(%(thread)d) %(name)s:%(lineno)s %(funcName)s [%(levelname)s]: %(message)s",
+            "datefmt": "%Y/%m/%d %H:%M:%S"
+        }
+    },
+    "handlers": {
+        "consoleHandler": {
+            "class": "logging.StreamHandler",
+            "level": "INFO",
+            "formatter": "simple",
+            "stream": "ext://sys.stdout"
+        },
+        "fileHandler": {
+            "class": "logging.handlers.RotatingFileHandler",
+            "level": "DEBUG",
+            "formatter": "simple",
+            "filename": "output.log"
+        }
+    },
+    "loggers": {
+        "mojitest.py": {
+            "level": "DEBUG",
+            "handlers": [
+                "fileHandler"
+            ],
+            "propagate": false
+        }
+    },
+    "root": {
+        "level": "INFO"
+    }
+}
