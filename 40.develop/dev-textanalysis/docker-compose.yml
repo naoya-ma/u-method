@@ -1,0 +1,12 @@
+version: '3.3'
+services:
+  dev-textanalysis:
+    volumes:
+      - /mnt/c/container/dev-textanalysis/data:/data
+    build: .
+    tty: true
+    restart: always
+    ports:
+      - 80:80
+# 
+
