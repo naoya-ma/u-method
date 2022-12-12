@@ -1,0 +1,10 @@
+# usage:
+# https://git-scm.com/docs/gitattributes#_checking_out_and_checking_in
+* text=auto eol=lf
+*.{cmd,[cC][mM][dD]} text eol=crlf
+*.{bat,[bB][aA][tT]} text eol=crlf
+*.sh  text eol=lf
+*.ps1 text eol=lf
+*.vcproj text eol=crlf
+*.csv text 
+#*.jpg -text
