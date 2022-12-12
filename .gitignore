@@ -1,1 +1,7 @@
+.DS_Store
+
 *.log
+
+/.vscode/**
+!/.vscode/launch.json
+!/.vscode/extensions.json
