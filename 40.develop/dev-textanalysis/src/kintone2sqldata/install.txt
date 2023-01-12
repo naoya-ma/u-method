@@ -1,0 +1,6 @@
+pip3 install poerty
+pip3 install build
+touch __init__.py
+python3 -m build
+pip3 install kintone2sqldata/
+python3 kintone2sqldata.py

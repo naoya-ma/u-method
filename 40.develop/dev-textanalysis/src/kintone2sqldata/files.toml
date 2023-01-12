@@ -1,0 +1,9 @@
+[[csvfile]]
+name = "abc"
+infilename = "sample1.csv"
+outfilename = "sample11.csv"
+
+[[csvfile]]
+name = "def"
+infilename = "sample2.csv"
+outfilename = "sample22.csv"

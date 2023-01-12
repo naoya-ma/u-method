@@ -1,0 +1,12 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "kintone2sqldata"
+version = "0.1.0"
+dependencies = ["toml"]
+description = ""
+
+[tool.hatch.build]
+exclude = ["install.txt"]
