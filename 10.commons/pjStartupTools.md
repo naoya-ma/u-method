@@ -4,7 +4,8 @@
 
 ## 1. はじめに
 
-本書は、Project 参画時に必要となるツールやサービスに関する情報（接続先・ダウンロード先）をまとめたものです。詳細は「2. 情報」からたどっていただき、ご参照・活用ください。
+本書は、Project 参画時に必要となるツールやサービスに関する情報（接続先・ダウンロード先）をまとめたものです。詳細は「2. 情報」からたどっていただき、ご参照・活用ください。  
+※ Windows/Linux/Mac　特に限定はしていません。
 
 ##  2. 情報
 
@@ -29,7 +30,10 @@
 通話/ビデオ通話/チャット
 
    * [ ] [Zoom](https://zoom.us/download)
-   * [ ] [Skype](https://www.skype.com/ja/get-skype/download-skype-for-desktop/)
+   * [ ] [Microsoft Teams](https://products.office.com/ja-jp/microsoft-teams/group-chat-software)
+   * [ ] [Microsoft Skype](https://www.skype.com/ja/get-skype/download-skype-for-desktop/)
+   * [ ] [Google Workspace](https://workspace.google.com/)
+   * [ ] [Google Meet](https://workspace.google.com/products/meet/)
    * [ ] [WebEx](https://www.webex.com/ja/video-conferencing.html)
    * [ ] [Whereby(Appear.in)](https://whereby.com/)
    * [ ] [WhatsApp](https://www.whatsapp.com/)
@@ -57,18 +61,19 @@
    * [ ] [gitlab](https://about.gitlab.com/)
    * [ ] [gitbucket](https://gitbucket.github.io/)
 
-### 2.5. エディタ 
+### 2.5. エディタ/ビュアー
 
-   * [x] [Typora](https://typora.io/)
-   * [x] [さくらエディタ](https://sakura-editor.github.io/)
+   * [x] [Visual Source Code(VSCODE)](https://azure.microsoft.com/ja-jp/products/visual-studio-code/)
+   * [x] [さくらエディタ](https://sakura-editor.github.io/)  
+   * [x] [glow](https://github.com/charmbracelet/glow/) : markdown viewer   
+   * [ ] [Typora](https://typora.io/): markdown editer
    * [ ] [gPad](https://mfactory.me/)
    * [ ] [TeraPad](https://tera-net.com/library/tpad.html)
    * [ ] [秀丸エディタ](https://hide.maruo.co.jp/software/hidemaru.html)
-   * [ ] [Visual Source Code(VSCODE)](https://azure.microsoft.com/ja-jp/products/visual-studio-code/)
-   * [ ] [ATOM](https://atom.io/)
-   * [ ] [Sublime Text](https://www.sublimetext.com/)
-   * [ ] [Vim](https://www.vim.org/download.php)
    * [ ] [GNU Emacs](https://www.gnu.org/software/emacs/)
+   * [ ] [Vim](https://www.vim.org/download.php)
+   * [ ] [Sublime Text](https://www.sublimetext.com/)
+   * [ ] [ATOM](https://atom.io/)
 
 ### 2.6. 図/チャート/プレゼンテーション
 
@@ -82,6 +87,7 @@
    * [ ] [Cacoo](https://cacoo.com/ja/)
    * [ ] [Adobe XD](https://www.adobe.com/jp/products/xd.html)
    * [ ] [Sketch](https://www.sketch.com/)
+   * [ ] [Figma](https://www.figma.com/ja/)
    * [ ] [PlantUML](https://plantuml.com/ja/)
    * [ ] [Graphviz](https://graphviz.org/)
    * [ ] [mermaid.js](https://github.com/mermaid-js/mermaid)
@@ -144,17 +150,29 @@
    * [ ] [Snipe-IT](https://snipe-it.readme.io/)
    * [ ] [Racktables](https://www.racktables.org/)
    * [ ] [netbox](https://github.com/netbox-community/netbox)
+   * [ ] [diagrams](https://diagrams.mingrammer.com/)
 
-### 2.12. PJTools 
+### 2.12. Concierge/Assist Service
+
+   * [ ] [検索デスク](https://www.searchdesk.com/)
+   * [ ] [ChatGPT](https://chat.openai.com/)
+   * [ ] [Microsoft Copilot](https://www.bing.com/)
+   * [ ] [Bing AI](https://www.bing.com/)
+   * [ ] [Google Bard](https://bard.google.com/?hl=ja)
+   * [ ] [Perplexity.ai(パープレキシティ)](https://www.perplexity.ai/)
+   * [ ] [notion AI](https://www.notion.so/ja-jp/blog/notion-ai-is-here-for-everyone/)
+   * [ ] [Amazon Alexa](https://www.amazon.co.jp/meet-alexa/)
+   * [ ] [Goole Assistant](https://assistant.google.com/intl/ja_jp/)
+
+### 2.13. PJTools 
 
  MindMap/Task/Issue/Gantt
    * [ ] [FreeMind](https://ja.osdn.net/projects/freemind/)
    * [ ] [X Mind](https://jp.xmind.net/)
    * [ ] [Microsoft Project](https://products.office.com/ja-jp/project/project-and-portfolio-management-software)
-   * [ ] [Microsoft Teams](https://products.office.com/ja-jp/microsoft-teams/group-chat-software)
    * [ ] [Microsoft ToDo](https://to-do.microsoft.com/tasks/)
    * [ ] [Microsoft Planner](https://tasks.office.com/)
-   * [ ] [Microsoft Automate](https://powerautomateweb.microsoft.com/ja-jp/)
+   * [ ] [Microsoft Power Automate](https://powerautomateweb.microsoft.com/ja-jp/)
    * [ ] [Microsoft Power Query](https://www.microsoft.com/ja-jp/download/details.aspx?id=39379)
    * [ ] [OpenProj](https://sourceforge.net/projects/openproj/)
    * [ ] [Trac](https://trac.edgewall.org/)
