@@ -61,12 +61,12 @@
    * [ ] [gitlab](https://about.gitlab.com/)
    * [ ] [gitbucket](https://gitbucket.github.io/)
 
-### 2.5. エディタ/ビュアー
+### 2.5. エディター/ビュアー
 
    * [x] [Visual Source Code(VSCODE)](https://azure.microsoft.com/ja-jp/products/visual-studio-code/)
    * [x] [さくらエディタ](https://sakura-editor.github.io/)  
    * [x] [glow](https://github.com/charmbracelet/glow/) : markdown viewer   
-   * [ ] [Typora](https://typora.io/): markdown editer
+   * [ ] [Typora](https://typora.io/): markdown editor
    * [ ] [gPad](https://mfactory.me/)
    * [ ] [TeraPad](https://tera-net.com/library/tpad.html)
    * [ ] [秀丸エディタ](https://hide.maruo.co.jp/software/hidemaru.html)
