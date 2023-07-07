@@ -12,7 +12,7 @@
 ### 2.1. ブラウザ
 
    * [x] [Google Chrome](https://www.google.com/intl/ja/chrome/)
-   * [x] [Mozilla FireFox](https://www.mozilla.org/ja/firefox/)
+   * [ ] [Mozilla FireFox](https://www.mozilla.org/ja/firefox/)
    * [ ] [Microsoft Edge](https://www.microsoft.com/ja-jp/edge)
    * [ ] [Apple Safari](https://www.apple.com/jp/safari/)
    * [ ] [Opera](https://www.opera.com/ja/)
@@ -20,7 +20,7 @@
 
 ### 2.2. オフィススイート
 
-   * [x] [Microsoft Office365](https://www.microsoft.com/ja-jp/microsoft-365)
+   * [x] [Microsoft 365](https://www.microsoft.com/ja-jp/microsoft-365)
    * [ ] [OpenOffice](https://www.openoffice.org/ja/)
    * [ ] [LibreOffice](https://ja.libreoffice.org/download/)
    * [ ] [Collabora Office](https://www.collaboraoffice.com/)
@@ -47,10 +47,10 @@
    * [ ] [Rocket.Chat](https://rocket.chat/)
    * [ ] [Mattermost](https://mattermost.com/)
 
-### 2.4. 情報共有/ファイルサービス
+### 2.4. 情報共有/ファイルサービス/DevOps
 
-   * [ ] [Evernote](https://evernote.com/)
    * [ ] [Notion](https://www.notion.so/)
+   * [ ] [Evernote](https://evernote.com/)
    * [ ] [Microsoft OneNote](https://www.onenote.com)
    * [ ] [Microsoft OneDrive](https://onedrive.live.com/)
    * [ ] [Google Keep](https://keep.google.com/)
@@ -61,12 +61,12 @@
    * [ ] [gitlab](https://about.gitlab.com/)
    * [ ] [gitbucket](https://gitbucket.github.io/)
 
-### 2.5. エディタ/ビュアー
+### 2.5. エディター/ビュアー
 
    * [x] [Visual Source Code(VSCODE)](https://azure.microsoft.com/ja-jp/products/visual-studio-code/)
    * [x] [さくらエディタ](https://sakura-editor.github.io/)  
    * [x] [glow](https://github.com/charmbracelet/glow/) : markdown viewer   
-   * [ ] [Typora](https://typora.io/): markdown editer
+   * [ ] [Typora](https://typora.io/): markdown editor
    * [ ] [gPad](https://mfactory.me/)
    * [ ] [TeraPad](https://tera-net.com/library/tpad.html)
    * [ ] [秀丸エディタ](https://hide.maruo.co.jp/software/hidemaru.html)
@@ -91,6 +91,7 @@
    * [ ] [PlantUML](https://plantuml.com/ja/)
    * [ ] [Graphviz](https://graphviz.org/)
    * [ ] [mermaid.js](https://github.com/mermaid-js/mermaid)
+
 
 ### 2.7. 画像/映像/音声
 
@@ -125,6 +126,7 @@
    * [ ] [Chocolately](https://chocolatey.org/)
    * [ ] [Microsoft Power Automate Desktop](https://flow.microsoft.com/ja-jp/desktop/)
    * [ ] [khcoder](https://khcoder.net/)
+   * [ ] [pagerduty](https://www.pagerduty.co.jp/)
 
 ### 2.10. DevTools
 
@@ -166,27 +168,39 @@
 
 ### 2.13. PJTools 
 
- MindMap/Task/Issue/Gantt
+ (1) MindMap
    * [ ] [FreeMind](https://ja.osdn.net/projects/freemind/)
    * [ ] [X Mind](https://jp.xmind.net/)
-   * [ ] [Microsoft Project](https://products.office.com/ja-jp/project/project-and-portfolio-management-software)
+   * [ ] [Miro](https://miro.com/)
+ 
+ (2) Modern ProjectTools(Task/Issue/Gantt/WorkFlow/Automation)
+   * [ ] [ClipUp](https://clickup.com)
+   * [ ] [Notion](https://www.notion.so)
+   * [ ] [Microsoft Loop](loop.microsoft.com/)
    * [ ] [Microsoft ToDo](https://to-do.microsoft.com/tasks/)
    * [ ] [Microsoft Planner](https://tasks.office.com/)
    * [ ] [Microsoft Power Automate](https://powerautomateweb.microsoft.com/ja-jp/)
    * [ ] [Microsoft Power Query](https://www.microsoft.com/ja-jp/download/details.aspx?id=39379)
-   * [ ] [OpenProj](https://sourceforge.net/projects/openproj/)
-   * [ ] [Trac](https://trac.edgewall.org/)
-   * [ ] [Redmine](https://www.redmine.org/)
+   * [ ] [Confluence](https://www.atlassian.com/ja/software/confluence)
    * [ ] [JIRA](https://www.atlassian.com/ja/software/jira)
    * [ ] [Wrike](https://www.wrike.com/ja/)
    * [ ] [asana](https://asana.com/ja)
+   * [ ] [monday](https://monday.com/)
+
+  (3)Legacy ProejctTools(Task/Issue/Gantt)
+   * [ ] [Microsoft Project](https://products.office.com/ja-jp/project/project-and-portfolio-management-software)
+   * [ ] [OpenProj](https://sourceforge.net/projects/openproj/)
+   * [ ] [Trac](https://trac.edgewall.org/)
+   * [ ] [Redmine](https://www.redmine.org/)/[hosting service](https://redmine.jp/hosting/)
    * [ ] [Instagantt](https://instagantt.com/)
    * [ ] [BackLog](https://backlog.com/ja/)
    * [ ] [Trello](https://trello.com/ja)
    * [ ] [Elegant for Trello](https://elegantt.com/)
    * [ ] [Brabio!](https://brabio.jp/)
-   * [ ] [Notion](https://www.notion.so)
    * [ ] [Tama](https://www.netsphere.jp/tama/)
    * [ ] [Schedule Board](http://www.rumix.com/sb/)
+
+ (3) Other
    * [ ] [調整さん](https://chouseisan.com/)
+   * [ ] [yosetti](https://www.yosetti.com/)
 
