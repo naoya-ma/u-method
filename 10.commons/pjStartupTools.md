@@ -24,7 +24,8 @@
    * [ ] [OpenOffice](https://www.openoffice.org/ja/)
    * [ ] [LibreOffice](https://ja.libreoffice.org/download/)
    * [ ] [Collabora Office](https://www.collaboraoffice.com/)
-
+   * [ ] [Google Workspace](https://workspace.google.com)
+ 
 ### 2.3. コミュニケーション
 
 通話/ビデオ通話/チャット
@@ -60,8 +61,15 @@
    * [ ] [Nextcloud](https://nextcloud.com/)
    * [ ] [gitlab](https://about.gitlab.com/)
    * [ ] [gitbucket](https://gitbucket.github.io/)
+   * [ ] [scrapbox](https://scrapbox.io/)
 
-### 2.5. エディター/ビュアー
+
+### 2.5. 個人知識管理(PKM)
+
+   * [ ]  [Obsidian](https://obsidian.md/)
+   * [ ]  [Capacities](https://capacities.io/)
+
+### 2.6. エディター/ビュアー
 
    * [x] [Visual Source Code(VSCODE)](https://azure.microsoft.com/ja-jp/products/visual-studio-code/)
    * [x] [さくらエディタ](https://sakura-editor.github.io/)  
@@ -75,7 +83,7 @@
    * [ ] [Sublime Text](https://www.sublimetext.com/)
    * [ ] [ATOM](https://atom.io/)
 
-### 2.6. 図/チャート/プレゼンテーション
+### 2.7. 図/チャート/プレゼンテーション
 
    * [ ] [Draw.IO](https://www.draw.io/)
    * [ ] [RevealJS](https://revealjs.com/#/)
@@ -93,23 +101,24 @@
    * [ ] [mermaid.js](https://github.com/mermaid-js/mermaid)
 
 
-### 2.7. 画像/映像/音声
+### 2.8. 画像/映像/音声
 
    * [ ] [GIMP](https://www.gimp.org/)
    * [ ] [INKSCAPE](https://inkscape.org/ja/)
    * [ ] [Fimora](https://filmora.wondershare.jp/video-editor/)
    * [ ] [Snap Camera](https://snapcamera.snapchat.com/)
 
-### 2.8. PDF/印刷/コンバージョン
+### 2.9. PDF/印刷/コンバージョン
 
    * [x] [Acrobat Reader](https://get.adobe.com/jp/reader/otherversions/)
    * [ ] [Concat PDF](https://www.vector.co.jp/soft/winnt/writing/se314678.html)
    * [ ] [PDF-XChange Viewer](https://www.vector.co.jp/soft/winnt/writing/se492489.html)
+   * [ ] [PDF24 Creator](https://tools.pdf24.org/ja/creator)
    * [ ] [4Videosoft フリー PDF JPEG 変換](https://www.vector.co.jp/soft/dl/winnt/art/se485136.html)
    * [ ] [ラベル屋さん](https://www.labelyasan.com/)
    * [ ] [PanDoc](https://pandoc.org/)
 
-### 2.9. OpsTools 
+### 2.10. OpsTools 
 
    * [x] [7-Zip](https://sevenzip.osdn.jp/)
    * [x] [WinMerge](http://winmerge.org/downloads/?lang=ja)
@@ -128,7 +137,7 @@
    * [ ] [khcoder](https://khcoder.net/)
    * [ ] [pagerduty](https://www.pagerduty.co.jp/)
 
-### 2.10. DevTools
+### 2.11. DevTools
 
    * [ ] [Pleiades All in One Eclipise](https://mergedoc.osdn.jp/)
    * [ ] [IntelliJ IDEA](https://pleiades.io/help/go)
@@ -144,7 +153,7 @@
    * [ ] [Tortoise Git](https://tortoisegit.org/)
    * [ ] [Git](https://git-scm.com/)
 
-### 2.11. InfraTools 
+### 2.12. InfraTools 
 
    * [ ] [Oracle VM VirtualBox](https://www.virtualbox.org/)
    * [ ] [Vagrant](https://www.vagrantup.com/)
@@ -154,19 +163,20 @@
    * [ ] [netbox](https://github.com/netbox-community/netbox)
    * [ ] [diagrams](https://diagrams.mingrammer.com/)
 
-### 2.12. Concierge/Assist Service
+### 2.13. Concierge/Assist Service
 
    * [ ] [検索デスク](https://www.searchdesk.com/)
    * [ ] [ChatGPT](https://chat.openai.com/)
-   * [ ] [Microsoft Copilot](https://www.bing.com/)
+   * [ ] [Microsoft Copilot](https://copilot.microsoft.com/)
    * [ ] [Bing AI](https://www.bing.com/)
-   * [ ] [Google Bard](https://bard.google.com/?hl=ja)
+   * [ ] [Claude](https://claude.ai/) 
+   * [ ] [Google Gemini](https://gemini.google.com)
    * [ ] [Perplexity.ai(パープレキシティ)](https://www.perplexity.ai/)
    * [ ] [notion AI](https://www.notion.so/ja-jp/blog/notion-ai-is-here-for-everyone/)
    * [ ] [Amazon Alexa](https://www.amazon.co.jp/meet-alexa/)
-   * [ ] [Goole Assistant](https://assistant.google.com/intl/ja_jp/)
+   * [ ] [Google Assistant](https://assistant.google.com/intl/ja_jp/)
 
-### 2.13. PJTools 
+### 2.14. PJTools 
 
  (1) MindMap
    * [ ] [FreeMind](https://ja.osdn.net/projects/freemind/)
@@ -187,7 +197,7 @@
    * [ ] [asana](https://asana.com/ja)
    * [ ] [monday](https://monday.com/)
 
-  (3)Legacy ProejctTools(Task/Issue/Gantt)
+  (3) Enterprise ProejctTools(Task/Issue/Gantt)
    * [ ] [Microsoft Project](https://products.office.com/ja-jp/project/project-and-portfolio-management-software)
    * [ ] [OpenProj](https://sourceforge.net/projects/openproj/)
    * [ ] [Trac](https://trac.edgewall.org/)
@@ -200,7 +210,8 @@
    * [ ] [Tama](https://www.netsphere.jp/tama/)
    * [ ] [Schedule Board](http://www.rumix.com/sb/)
 
- (3) Other
+  (4) Other  
    * [ ] [調整さん](https://chouseisan.com/)
    * [ ] [yosetti](https://www.yosetti.com/)
+   * [ ] [captera](https://www.capterra.jp/)
 
