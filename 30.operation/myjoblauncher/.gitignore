@@ -1,0 +1,30 @@
+# Python-generated files
+  pycache
+.python-version
+*.py[oc]
+build/
+dist/
+release/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+uv.lock
+
+# apps
+app.db
+config/settings.toml
+config/app_update_state.toml
+config/system_notices.toml
+config/notice_seen.toml
+config/sync_state.toml
+config/device.toml
+config/devices.toml
+config/menu_sync_base.toml
+cache/
+logs/
+
+# others
+.claude/
+
