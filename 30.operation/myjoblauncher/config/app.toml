@@ -1,0 +1,12 @@
+timezone = "Asia/Tokyo"
+theme = "modern_dark"
+stopwatch_identifier = ""
+portal_notices_height = 245.6000610351564
+app_name = "myJobLauncher"
+tools_view_mode = "icon_large"
+tools_sort_mode = "use_count"
+window_width = 1400
+window_height = 800
+links_view_mode = "icon_large"
+links_sort_mode = "last_used"
+stopwatch_html_path = "C:\\container\\mycontainer\\dev-stopwatch\\js-swatch.html"

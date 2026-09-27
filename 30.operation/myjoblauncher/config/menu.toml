@@ -1,0 +1,54 @@
+[[menu]]
+name = "Hello World"
+command = "echo Hello World"
+async = false
+schedule = ""
+note = ""
+manual = ""
+job_id = "J001"
+category = ""
+job_type = "定型"
+tier = ""
+enabled = true
+created_at = ""
+updated_at = ""
+maturity = 0
+
+
+[[menu]]
+name = "Python実行"
+command = "python --version"
+async = false
+schedule = ""
+note = ""
+manual = "https://devguide.python.org/versions/"
+job_id = "J003"
+category = ""
+job_type = "定型"
+tier = ""
+enabled = true
+created_at = ""
+updated_at = ""
+maturity = 0
+
+[[menu]]
+name = "メモ帳"
+command = "notepad.exe"
+async = true
+schedule = ""
+note = ""
+manual = ""
+job_id = "J010"
+category = ""
+job_type = "定型"
+tier = ""
+enabled = true
+created_at = ""
+updated_at = ""
+maturity = 0
+
+
+[storage]
+enabled = false
+type = "local"
+

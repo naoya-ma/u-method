@@ -1,0 +1,16 @@
+.gitattribute
+
+*           text=auto
+*.txt       text eol=lf
+*.md        text eol=lf
+*.py        text eol=lf
+*.toml      text eol=lf
+*.yaml      text eol=lf
+*.json      text eol=lf
+*.sh        text eol=lf
+*.jcproj    text eol=crlf
+*.cmd       text eol=crlf
+*.bat       text eol=crlf
+*.ps1       text eol=crlf
+*.jpg       -text
+*.png       -text
